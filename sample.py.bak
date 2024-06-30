@@ -9,7 +9,7 @@ print("The sort list is",List2)
 
 List3=[]
 List3= List1.copy()
-print("List3 =",List3)
+print("List3 =",list3)
 
 indexvalue = List2[2:6]
 print("The index values are",indexvalue)

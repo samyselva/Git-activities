@@ -26,4 +26,4 @@ jobs:
 
     - name: Run script
       run: |
-        python sample.py
+        python your_script.py
